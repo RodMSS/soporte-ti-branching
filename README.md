@@ -1,9 +1,9 @@
 # soporte-ti-branching
 # soporte-ti-branching
 
-## Problemas de red
+## Problemas de impresora
 
-Si no hay conexión:
-1. Verificar cable
-2. Reiniciar router
-3. Ejecutar ipconfig
+1. Revisar la conexión USB.
+2. Verificar los drivers.
+3. Reiniciar el spooler de impresión.
+
