@@ -21,3 +21,17 @@ Si no hay conexión:
 2. Verificar los drivers.
 3. Reiniciar el spooler de impresión.
 
+
+## Problemas de red
+
+Si no hay conexión:
+1. Verificar cable
+2. Reiniciar router
+3. Ejecutar ipconfig
+
+
+## Problemas de datos
+
+1. Restablecer conexión
+2. Verificar credenciales
+3. Revisar permisos de acceso
