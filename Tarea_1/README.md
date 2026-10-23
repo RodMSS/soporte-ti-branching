@@ -34,4 +34,4 @@ Nos comprometemos a aprender continuamente, trabajar de manera colaborativa y ut
 
 ## Presentación
 
-[Ver presentación en Canva](https://canva.link/198q39zipwzv6bl)
+[Ver presentación en Canva](https://www.canva.com/design/DAHY3htHlcc/XRxW1hNZblQ1EweqOo2H7A/edit)
